@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi 👋, I'm Pankaj Mandal
 
-<!--
-**pankaj0721/pankaj0721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Aspiring Machine Learning / Data Science Engineer  
+📊 Passionate about solving real-world problems using Data & AI  
+🚀 Currently building ML projects with real datasets  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🎓 3rd Year Student  
+- 📊 Interested in Machine Learning & Data Science  
+- 💻 Strong in Python
+- 🔍 Focused on real-world ML applications  
+- 🎯 Goal: Land an ML/Data Science Internship  
+
+---
+
+## ⚒️ Tech Stack
+
+**Languages:**  
+Python, C++  
+
+**Data Science & ML:**  
+Pandas, NumPy, Scikit-learn, NLP, TF-IDF  
+
+**Visualization:**  
+Matplotlib, Seaborn  
+
+**Backend (ML Deployment):**  
+FastAPI  
+
+**Database:**  
+SQL  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Fake Job Detection System
+- Built an ML model to detect fraudulent job postings  
+- Applied **text preprocessing (cleaning, stopword removal, lemmatization)**  
+- Used **TF-IDF + Logistic Regression**  
+- Achieved high accuracy on labeled dataset  
+- Deployed using FastAPI  
+
+🔗 [View Project](https://github.com/pankaj0721/AI-Job-Fraud-Detection-Analysis-Platform.git)
+
+---
+
+### 🔹 Cattle Breed Detection 🐄
+- Developed image classification model using Deep Learning  
+- Trained on custom dataset from Kaggle  
+- Focused on agricultural AI use case  
+
+🔗 [View Project](https://github.com/pankaj0721/Image-Based-Cattle-Breed-Detection.git)
+
+---
+
+## 📊 GitHub Stats
+
+![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankaj0721&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj0721&layout=compact&theme=radical)
+
+---
+
+## 📈 What I’m Currently Working On
+
+- 📊 Improving ML model performance & evaluation  
+- 🧠 Learning advanced ML concepts  
+- 🚀 Building end-to-end ML projects  
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/pankaj3849  
+- 📧 Email: npankajkumar4983@gmail.com 
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning raw data into meaningful insights 🚀
