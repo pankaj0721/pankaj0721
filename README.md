@@ -59,9 +59,9 @@ SQL
 
 ## 📊 GitHub Stats
 
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankaj0721&show_icons=true&theme=radical&cache_seconds=86400)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pankaj0721&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj0721&layout=compact&theme=radical&cache_seconds=86400)
+![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pankaj0721&layout=compact&theme=radical)
 
 ---
 
