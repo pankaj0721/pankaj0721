@@ -1,4 +1,4 @@
-# Hi 👋, I'm Pankaj Mandal
+# Hi 👋, I'm Pankaj Kumar Mandal
 
 🤖 Aspiring Machine Learning / Data Science Engineer  
 📊 Passionate about solving real-world problems using Data & AI  
