@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 🎓 3rd Year Student  
+- 🎓 Final Year Student  
 - 📊 Interested in Machine Learning & Data Science  
 - 💻 Strong in Python
 - 🔍 Focused on real-world ML applications  
@@ -22,16 +22,16 @@
 Python, C++  
 
 **Data Science & ML:**  
-Pandas, NumPy, Scikit-learn, NLP, TF-IDF  
+Pandas, NumPy, Scikit-learn, NLP, TF-IDF, ML Algorithms 
+
+**Deep Learning:**  
+ANN, CNN, RNN, LSTM, GRU, Encoder-Decoder, Attention Mechanism, Transformers, LLM  
 
 **Visualization:**  
 Matplotlib, Seaborn  
 
-**Backend (ML Deployment):**  
-FastAPI  
-
 **Database:**  
-SQL  
+MySQL  
 
 ---
 
